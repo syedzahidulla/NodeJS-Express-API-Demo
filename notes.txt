@@ -1,0 +1,4 @@
+By Putting 	"type": "module" in pacakage.json file we can use newer imports type
+ i.e import express from 'express'; instead of using const app = express();
+
+ "common.js" is vice versa of "module"
